@@ -3,5 +3,9 @@ print(2+2)
 # added new print method
 a = 1
 b = 2
-print(a + b)
+c = a + b
+print(c)
 # added new lines
+# added var c
+
+
